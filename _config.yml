@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Professional Headshot.jpg"
+  avatar           : "profile.png"
   name             : "Sully Mrkva"
   pronouns         : # example: "she/her"  
   bio              : "VT Computer Engineering. Cybersecurity Researcher. DOD Cyber Scholar. National Debate Coach."
